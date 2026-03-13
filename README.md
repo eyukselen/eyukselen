@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eyukselen
 - 👀 I’m interested in all things data
-- 🌱 I’m growing a simple text editor
+- 🌱 I’m growing a simple text editor and a few simple dev tools
 - 📫 How to reach me ...  these aren't the droids you're looking for
 
 <!---
